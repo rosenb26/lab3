@@ -1,7 +1,6 @@
-public class Hello
-{
-public static void main( String argv[] )
- {
- System.out.println( "Hello, " + argv[0] + "!" );
-}
+public class Hello{
+    public static void main( String argv[] ){
+        System.out.println( "Hello, " + argv[0] + "!" );
+    }
+    
 }
